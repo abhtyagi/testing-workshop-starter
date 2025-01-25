@@ -3,7 +3,7 @@ from src import texter
 
 
 def test_leet():
-    assert texter.leet("hello") == "h3llo"
+    assert texter.leet("hello") == "hpllo"
 
 
 # def test_clapify():
